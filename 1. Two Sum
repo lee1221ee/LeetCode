@@ -1,4 +1,5 @@
 // Time - O(n^2)
+// 暴力破解法
 
 class Solution {
 public:
@@ -24,6 +25,8 @@ public:
 };
 
 // Time - O(nlogn)
+// 利用哈希表達到只需要查詢一次，就可以找到 (Target - num) 是否在哈希表內
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
