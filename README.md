@@ -5,7 +5,8 @@
 + [121. Best Time to Buy and Sell Stock](https://github.com/lee1221ee/LeetCode/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)，Easy
 
 ## Tree
-+ [144. Binary Tree Preorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal.md)
++ [144. Binary Tree Preorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal.md)，Easy
++ [94. Binary Tree Inorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.md)，Easy
 
 ## 參考資源
 + [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
