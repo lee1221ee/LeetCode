@@ -13,6 +13,7 @@
 ## String
 
 - [9. Palindrome Number](https://github.com/lee1221ee/LeetCode/blob/main/9.%20Palindrome%20Number.md)，Easy
+- [2243. Calculate Digit Sum of a String](https://github.com/lee1221ee/LeetCode/blob/main/2243.%20Calculate%20Digit%20Sum%20of%20a%20String.md)，Easy
 
 ## Tree
 
