@@ -18,6 +18,8 @@
 ## Tree
 
 - [94. Binary Tree Inorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.md)，Easy
+- [100. Same Tree](https://github.com/lee1221ee/LeetCode/blob/main/100.%20Same%20Tree.md)，Easy
+- [104. Maximum Depth of Binary Tree](https://github.com/lee1221ee/LeetCode/blob/main/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)，Easy
 - [144. Binary Tree Preorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal.md)，Easy
 - [145. Binary Tree Postorder Traversal](https://github.com/lee1221ee/LeetCode/blob/main/145.%20Binary%20Tree%20Postorder%20Traversal.md)，Easy
 
@@ -25,3 +27,4 @@
 
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [LeetCode Notion](https://mmmwhy.notion.site/mmmwhy/9defb52cde6f497abe2a8433ca344e66?v=dca562b492764428985b0c3bcdb2332e)
+- [labuladong 的算法小抄](https://labuladong.gitee.io/algo)
