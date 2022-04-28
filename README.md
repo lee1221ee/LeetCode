@@ -1,5 +1,11 @@
 # LeetCode
 
+<p align="center">
+  <a href="https://leetcode.com/lee1221ee">
+    <img title="lee1221ee's LeetCode Stats" alt="lee1221ee's LeetCode Stats" src="https://leetcode.card.workers.dev/lee1221ee?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
+  </a>
+</p>
+
 ## Array
 
 - [1. Two Sum](https://github.com/lee1221ee/LeetCode/blob/main/1.%20Two%20Sum.md)，Easy
